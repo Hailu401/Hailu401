@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Tech Stack
 
-**Frontend** 
-&nbsp;
+**Frontend** <br>
 &nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;
@@ -42,7 +41,7 @@ Here are some ideas to get you started:
 &nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
 
-**Backend**  
+**Backend** <br>
 &nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 &nbsp;
@@ -50,13 +49,13 @@ Here are some ideas to get you started:
 &nbsp;
 ![REST API](https://img.shields.io/badge/-REST%20API-blue?style=for-the-badge)
 
-**Database**  
+**Database** <br> 
 &nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql)
 &nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-**Others**  
+**Others** <br> 
 &nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;
