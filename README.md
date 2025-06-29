@@ -30,24 +30,40 @@ Here are some ideas to get you started:
 
 ### 🚀 Tech Stack
 
-**Frontend**
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+### 🚀 Tech Stack
 
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-blue?style=flat-square)
+**Frontend**  
+&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+&nbsp;
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
 
-**Database**
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+**Backend**  
+&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+&nbsp;
+![REST API](https://img.shields.io/badge/-REST%20API-blue?style=for-the-badge)
 
-**Others**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+**Database**  
+&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql)
+&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+**Others**  
+&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+&nbsp;
+
+
 
 
 ---
@@ -59,8 +75,7 @@ Here are some ideas to get you started:
 
 ---
 
-> “Building things that matter — one project at a time.”
-
+> 
 
 _“Coding is not just a skill, it's a mindset to solve real-world problems.”_
 
