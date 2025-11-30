@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: **MERN stack apps, REST APIs, and Node.js projects**
 - 🌱 I’m learning: **AI Engineering and advance AI Agent building**
-- 🎓 Graduate of a 6-month Software Engineering Bootcamp
+- 🎓 Graduate of a Software Engineering Bootcamp
 - 💬 Ask me about: **JavaScript, React, Node.js, Express, MySQL, APIs**
 - 📫 How to reach me: **hailushambal@gmail.com**
 - 🌐 Portfolio: [hailudev.com](https://hailudev.com)
